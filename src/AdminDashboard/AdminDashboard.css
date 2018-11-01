@@ -1,0 +1,37 @@
+
+.btn-block {
+	max-width: 40%;
+}
+.btn-lg {
+	padding: 5vh;
+}
+.body {
+	text-align: center;
+	color: white;
+}
+a {
+	text-decoration: none;
+	color: white;
+}
+
+a:hover {
+
+    color: #bbb;
+    text-decoration: none;
+
+}
+
+.test {
+	text-align: center;
+	color: white;
+	text-decoration: none;
+	margin: auto;
+}
+
+.container {
+	display: inline-block;
+}
+
+h3 {
+	text-align: center;
+}
